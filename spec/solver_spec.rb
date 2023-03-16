@@ -11,7 +11,7 @@ describe Solver do
     end
 
     it "raises an exception for negative integers" do
-      expect { Factorial.factorial(-5) }.to raise_error(ArgumentError)
+      expect { subject.factorial(-5) }.to raise_error(ArgumentError)
     end
   end
 end
