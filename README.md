@@ -45,6 +45,7 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [TDD-projects] <a name="about-project"></a>
+
 Test Driven Development (TDD) is a programming practice that instructs developers to write new code only if an automated test has failed.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -65,7 +66,6 @@ Test Driven Development (TDD) is a programming practice that instructs developer
 
 - **[Write Rspec unit tests with mocks]**
 - **[Understand the TDD concept]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,6 +116,7 @@ Install this project with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Chimezie Asouzu**
@@ -123,6 +124,12 @@ Install this project with:
 - GitHub: [@Shegy28](https://github.com/shegy28)
 - Twitter: [@Shegy28](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chimezie-asouzu-67704224a/)
+
+👤 **Wilson Kimiri**
+
+- GitHub: [@githubhandle](https://github.com/willy836)
+- Twitter: [@twitterhandle](https://twitter.com/Kimiri836)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wilson-kimiri/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
